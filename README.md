@@ -7,7 +7,7 @@ Natours is simple responsive landing page made with scss.I have made this projec
 - **Clip Path**
 - **Responsive Images**
 
-## Deployed link- https://natours-sass-css-html.netlify.app/
+## Deployed link-https://natours-advanced-css-rho.vercel.app/
  ---
 ### Here are few mockups-
 <img width="934" alt="Screenshot 2023-09-02 130747" src="https://github.com/MilanMahanti/Natours/assets/114055453/810276e3-5270-4684-8fe2-10c03fbe9912">
